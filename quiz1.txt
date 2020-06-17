@@ -1,0 +1,13 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+      int s = 12;
+      double d = 1.2;
+      char f = 'A';
+      
+      System.out.print(s);
+      System.out.print(d);
+      System.out.print(f);
+      
+     }
+}
